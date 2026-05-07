@@ -49,7 +49,7 @@
 <h3>📱 Featured Mobile Apps</h3>
 
 **Phasalao Tracing**
-<p>A mobile application for tracing and tracking. Built with Flutter/Dart for seamless cross-platform experience.</p>
+<p>A mobile application for tracing A-Z and all lao letters. Built with C# language Unity game engin.</p>
 
 <a href="https://play.google.com/store/apps/details?id=com.ictlao.android.app.PhasalaoTracing&pcampaignid=web_share" target="_blank">
   <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
