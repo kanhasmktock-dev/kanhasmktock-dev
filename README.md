@@ -46,6 +46,15 @@
 
 ---
 
+<h3>📱 Featured Mobile Apps</h3>
+
+**Phasalao Tracing**
+<p>A mobile application for tracing and tracking. Built with Flutter/Dart for seamless cross-platform experience.</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.ictlao.android.app.PhasalaoTracing&pcampaignid=web_share" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+</a>
+
 <h3>📊 GitHub Contributions Summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanhasmktock-dev&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
