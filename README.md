@@ -50,7 +50,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanhasmktock-dev&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanhasmktock-dev&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<!--![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanhasmktock-dev&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)-->
 
 ---
 
@@ -72,12 +72,12 @@
 
 ---
 
-If you think my work is valuable, consider supporting me! 🥺
+<!-- If you think my work is valuable, consider supporting me! 🥺
 
 <a href="https://www.buymeacoffee.com/kanhasmktock" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-
+-->
 <p align="center">
-  <i>Let's build something amazing together! Feel free to reach out.</i>
+  <i>Let's build something amazing together! Feel free to reach out @kanhasmk-dev or contact kanhasmktock@gmail.com </i>
 </p>
